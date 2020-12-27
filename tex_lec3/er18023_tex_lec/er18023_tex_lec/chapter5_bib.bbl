@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{LSTM}
+Sepp Hochreiter and J^^c3^^bcrgen Schmidhuber.
+\newblock Long short-term memory.
+\newblock {\em Neural Computation}, Vol.~9, No.~8, pp. 1735--1780, 1997.
+
+\bibitem{bibtex_url}
+Bibtex entry from url - chrome ウェブストア.
+\newblock
+  \url{https://chrome.google.com/webstore/detail/bibtex-entry-from-url/mgpmgkhhbjgkpnanlmlhibjfgpdpgjec}.
+\newblock (Accessed on 12/11/2020).
+
+\bibitem{GoodBengCour16}
+Ian~J. Goodfellow, Yoshua Bengio, and Aaron Courville.
+\newblock {\em Deep Learning}.
+\newblock MIT Press, Cambridge, MA, USA, 2016.
+\newblock \url{http://www.deeplearningbook.org}.
+
+\end{thebibliography}
